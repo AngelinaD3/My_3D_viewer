@@ -1,0 +1,23 @@
+# ninja log v5
+17	487	7553640763816668	CMakeFiles/3D-viewer.dir/glad.c.obj	ebb53a5cd5e1726d
+13	1060	7553640769452814	CMakeFiles/3D-viewer.dir/GeometryPrimitives.cpp.obj	1312477119fab370
+10	1109	7553640770016521	CMakeFiles/3D-viewer.dir/OpenglRenderSystem.cpp.obj	751a763de1dc5f76
+7	1270	7553640771652456	CMakeFiles/3D-viewer.dir/ViewerWindow.cpp.obj	ab376537191a5572
+2	1322	7553640772168811	CMakeFiles/3D-viewer.dir/3D-viewer.cpp.obj	7a6d1a8057fd13a5
+1322	2159	7553640774890564	3D-viewer.exe	7c3f4f91a091d78a
+29	389	0	clean	21a4d0550fd2b6b1
+150	1076	7553641617706206	CMakeFiles/3D-viewer.dir/glad.c.obj	ebb53a5cd5e1726d
+114	1533	7553641622335424	CMakeFiles/3D-viewer.dir/OpenglRenderSystem.cpp.obj	751a763de1dc5f76
+146	1548	7553641622545771	CMakeFiles/3D-viewer.dir/GeometryPrimitives.cpp.obj	1312477119fab370
+110	1713	7553641624204059	CMakeFiles/3D-viewer.dir/ViewerWindow.cpp.obj	ab376537191a5572
+49	1995	7553641627002808	CMakeFiles/3D-viewer.dir/3D-viewer.cpp.obj	7a6d1a8057fd13a5
+1995	2613	7553641628358946	3D-viewer.exe	7c3f4f91a091d78a
+33	43	0	clean	21a4d0550fd2b6b1
+36	388	7553641910954235	CMakeFiles/3D-viewer.dir/glad.c.obj	ebb53a5cd5e1726d
+31	795	7553641915022824	CMakeFiles/3D-viewer.dir/GeometryPrimitives.cpp.obj	1312477119fab370
+28	837	7553641915436771	CMakeFiles/3D-viewer.dir/OpenglRenderSystem.cpp.obj	751a763de1dc5f76
+24	920	7553641916273228	CMakeFiles/3D-viewer.dir/ViewerWindow.cpp.obj	ab376537191a5572
+20	1035	7553641917413937	CMakeFiles/3D-viewer.dir/3D-viewer.cpp.obj	7a6d1a8057fd13a5
+1035	1588	7553641918633830	3D-viewer.exe	7c3f4f91a091d78a
+25	546	7553642172127025	CMakeFiles/3D-viewer.dir/GeometryPrimitives.cpp.obj	1312477119fab370
+546	1037	7553642173089815	3D-viewer.exe	7c3f4f91a091d78a

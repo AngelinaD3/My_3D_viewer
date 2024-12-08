@@ -1,0 +1,3 @@
+C:/Users/user/Desktop/3D-viewer/build/CMakeFiles/3D-viewer.dir
+C:/Users/user/Desktop/3D-viewer/build/CMakeFiles/edit_cache.dir
+C:/Users/user/Desktop/3D-viewer/build/CMakeFiles/rebuild_cache.dir
